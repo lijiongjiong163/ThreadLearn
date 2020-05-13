@@ -62,5 +62,6 @@ public class ThreadTest {
             System.out.println(Thread.currentThread()+",时间："+new Date().getTime());
         }
         System.out.println("测试git");
+        System.out.println("第二次测试git");
     }
 }
