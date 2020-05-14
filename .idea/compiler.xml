@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="thread_safe_demo" />
         <module name="thread_create_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="thread_create_demo" target="1.7" />
+      <module name="thread_safe_demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
