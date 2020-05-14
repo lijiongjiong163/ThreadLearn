@@ -4,11 +4,11 @@ package com.ljj.thread;
 import org.junit.Test;
 
 
-class TicketTest {
+public class TicketTest {
     @Test
     public void sale(){
         Ticket ticket = new Ticket();
-        Thread thread1 = new Thread(ticket);
+        Thread thread1 = new Thread(ticket,"窗口1");
         thread1.start();
     }
 }
