@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/thread_create_demo/pom.xml" />
         <option value="$PROJECT_DIR$/thread_safe_demo/pom.xml" />
         <option value="$PROJECT_DIR$/thread_lock_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/thread_com_demo/pom.xml" />
       </list>
     </option>
   </component>
