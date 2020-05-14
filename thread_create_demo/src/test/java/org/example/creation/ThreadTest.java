@@ -20,6 +20,10 @@ public class ThreadTest {
 
     /**
      *    使用实现runnable接口来创建线程
+     *    优点： 1。一个地方开发，多个线程复用
+     *          2。可多实现，不被单继承限制
+     *          3。线程池只能放入实现runnable或者callable接口的线程，不能直接放入继承thread的类
+     *
      */
     @Test
     public void myRunnableTest(){
