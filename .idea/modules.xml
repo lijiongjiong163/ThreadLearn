@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/thread_com_demo/thread_com_demo.iml" filepath="$PROJECT_DIR$/thread_com_demo/thread_com_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_create_demo/thread_create_demo.iml" filepath="$PROJECT_DIR$/thread_create_demo/thread_create_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_ctl_demo/thread_ctl_demo.iml" filepath="$PROJECT_DIR$/thread_ctl_demo/thread_ctl_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_lock_demo/thread_lock_demo.iml" filepath="$PROJECT_DIR$/thread_lock_demo/thread_lock_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_safe_demo/thread_safe_demo.iml" filepath="$PROJECT_DIR$/thread_safe_demo/thread_safe_demo.iml" />
     </modules>
