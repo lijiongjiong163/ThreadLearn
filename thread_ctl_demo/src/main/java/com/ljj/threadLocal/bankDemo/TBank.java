@@ -1,4 +1,4 @@
-package com.ljj.thread;
+package com.ljj.threadLocal.bankDemo;
 
 public class TBank {
     ThreadLocal<Integer> threadLocal = new ThreadLocal<Integer>(){

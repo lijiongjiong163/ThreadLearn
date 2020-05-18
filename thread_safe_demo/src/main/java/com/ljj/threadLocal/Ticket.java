@@ -1,6 +1,5 @@
-package com.ljj.thread;
+package com.ljj.threadLocal;
 
-import java.util.Date;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 

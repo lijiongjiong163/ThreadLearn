@@ -1,5 +1,8 @@
-package com.ljj.thread;
+package com.ljj.threadLocal.bankDemo;
 
+
+import com.ljj.threadLocal.bankDemo.TBank;
+import com.ljj.threadLocal.bankDemo.Transfer;
 
 public class ThreadLocalTest {
     public static void main(String[] args) {

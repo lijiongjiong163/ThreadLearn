@@ -1,4 +1,4 @@
-package com.ljj.thread;
+package com.ljj.threadLocal;
 
 /**
  * 线程通讯：

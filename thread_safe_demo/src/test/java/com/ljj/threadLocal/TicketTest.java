@@ -1,7 +1,4 @@
-package com.ljj.thread;
-
-
-import org.junit.Test;
+package com.ljj.threadLocal;
 
 
 public class TicketTest {

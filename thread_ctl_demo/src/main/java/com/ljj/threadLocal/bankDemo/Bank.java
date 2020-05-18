@@ -1,4 +1,4 @@
-package com.ljj.thread;
+package com.ljj.threadLocal.bankDemo;
 
 /**
  * 普通bank类，线程不安全且线程共享一个对象，大家一存都存一块去了

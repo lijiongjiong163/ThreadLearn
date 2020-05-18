@@ -1,4 +1,4 @@
-package com.ljj.thread;
+package com.ljj.threadLocal;
 
 
 

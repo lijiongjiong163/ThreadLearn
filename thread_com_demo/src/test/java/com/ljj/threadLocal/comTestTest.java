@@ -1,4 +1,4 @@
-package com.ljj.thread;
+package com.ljj.threadLocal;
 
 class comTestTest {
     public static void main(String[] args) {

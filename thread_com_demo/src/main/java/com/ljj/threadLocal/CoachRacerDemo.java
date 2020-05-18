@@ -1,6 +1,5 @@
-package com.ljj.thread;
+package com.ljj.threadLocal;
 
-import java.sql.SQLOutput;
 import java.util.concurrent.CountDownLatch;
 
 /**

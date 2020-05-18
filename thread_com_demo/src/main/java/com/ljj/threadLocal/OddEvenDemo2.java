@@ -1,4 +1,4 @@
-package com.ljj.thread;
+package com.ljj.threadLocal;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
