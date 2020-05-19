@@ -16,7 +16,7 @@
     <bytecodeTargetLevel>
       <module name="thread_com_demo" target="1.5" />
       <module name="thread_create_demo" target="1.7" />
-      <module name="thread_ctl_demo" target="1.5" />
+      <module name="thread_ctl_demo" target="8" />
       <module name="thread_lock_demo" target="1.5" />
       <module name="thread_safe_demo" target="6" />
     </bytecodeTargetLevel>
